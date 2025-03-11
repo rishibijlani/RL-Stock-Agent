@@ -12,10 +12,10 @@ Performance on TRENT.NS
 
 ## Archean Chemical Industries (ACI.NS)
 Performance on ACI.NS. Not the best, the agent reaches the termination condition because of the losses and stops.
-![image info](./archean/Screenshot 2025-03-10 193802.png)
+![image info](./archean/Screenshot_2025-03-10_193802.png)
 ![image info](./archean/portfolio_performance_and_actions.png)
 
 ## Praj Industries (PRAJIND.NS)
 Performance on PRAJIND.NS
-![image info](./praj/Screenshot 2025-03-09 013207.png)
+![image info](./praj/Screenshot_2025-03-09_013207.png)
 ![image info](./praj/portfolio_performance_and_actions.png)
