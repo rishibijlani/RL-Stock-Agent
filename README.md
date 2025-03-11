@@ -7,7 +7,7 @@ The reward function used to train the agent is Differential Sharpe Ratio.
 
 ## Trent Limited (TRENT.NS)
 Performance on TRENT.NS
-![image info](./trent/Screenshot 2025-03-09 000939.png)
+![image info](./trent/Screenshot_2025-03-09_000939.png)
 ![image info](./trent/portfolio_performance_and_actions.png)
 
 ## Archean Chemical Industries (ACI.NS)
